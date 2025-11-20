@@ -11,8 +11,8 @@ pecflexup= 0;
 buttshake=0;
 
 function preload() {
-  img = loadImage('/assets/WitchHatDesign.png');
-  spiralImg = loadImage('/assets/spiral.png');
+  img = loadImage('assets/WitchHatDesign.png');
+  spiralImg = loadImage('assets/spiral.png');
 }
 
 function setup() {
